@@ -1,0 +1,8 @@
+# Secrets — never commit real credentials
+.env
+*.local
+Account-Info.md
+
+# OS junk
+.DS_Store
+Thumbs.db
